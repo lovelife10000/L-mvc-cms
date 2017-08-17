@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lovelife10000/L-mvc-cms#readme",
   "dependencies": {
-    "co": "^4.6.0"
+    "co": "^4.6.0",
+    "koa": "^2.3.0"
   }
 }
